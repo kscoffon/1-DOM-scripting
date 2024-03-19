@@ -1,0 +1,9 @@
+.prettierrrc
+    {
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "tabWidth": 4,
+  "arrowParens": "avoid"
+
+}
