@@ -1,4 +1,4 @@
-.prettierrrc
+.prettierrc
     {
   "singleQuote": true,
   "trailingComma": "all",
